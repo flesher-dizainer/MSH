@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.313,=D:\soft\RAD Studio\minish\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.613,=D:\soft\RAD Studio\minish\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,=D:\soft\RAD Studio\minish\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,=D:\soft\RAD Studio\minish\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,=D:\soft\RAD Studio\minish\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.086,D:\Users\Администратор\Documents\RAD Studio\Projects\Project2.dproj=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,D:\Users\Администратор\Documents\RAD Studio\Projects\Unit2.dfm=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,=D:\soft\RAD Studio\minish\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,D:\soft\RAD Studio\minish\Unit1.pas=D:\soft\RAD Studio\minish\DIagPARS.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,D:\soft\RAD Studio\minish\DIagPARS.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,=D:\Users\Администратор\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\uFirmware.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\uFormSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,D:\Users\Администратор\Documents\RAD Studio\Projects\Unit2.pas=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,D:\soft\RAD Studio\minish\Uwork.pas=D:\soft\RAD Studio\minish\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.527,D:\soft\RAD Studio\minish\Minishaitane.dproj=D:\soft\RAD Studio\minish\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\uLC1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\uOBDII.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,=D:\Users\Администратор\Documents\RAD Studio\Shaitane New\uEducationThread.pas</Transaction>
+  </Transactions>
+</BorlandProject>
